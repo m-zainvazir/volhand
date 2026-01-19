@@ -2,7 +2,7 @@
 
 A real-time computer vision application that allows you to control your system volume using hand gestures.
 
-https://drive.google.com/file/d/1s0wBCvjfQ44pjC0gsglyHLigo2YQshL_/view?usp=sharing
+https://drive.google.com/file/d/1wgoZ3YghRwfZPgYzKI-PqDOGqrdM-fm3/view?usp=sharing
 
 ---
 
