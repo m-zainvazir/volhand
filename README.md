@@ -1,5 +1,6 @@
-# 🖐️ Hand Gesture Volume Control
+# 🖐️ Aura Control
 
+Hand Gesture Volume Control
 A real-time computer vision application that allows you to control your system volume using hand gestures.
 
 [Click here to watch the video (1)](https://drive.google.com/file/d/1wgoZ3YghRwfZPgYzKI-PqDOGqrdM-fm3/view?usp=sharing)
