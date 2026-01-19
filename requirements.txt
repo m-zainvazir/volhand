@@ -1,0 +1,5 @@
+mediapipe==0.10.9  # Downgraded from 0.10.31 - more stable version
+opencv-python==4.10.0.84
+pycaw==20230322
+numpy==1.24.3
+comtypes==1.4.13
