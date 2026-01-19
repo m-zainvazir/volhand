@@ -2,7 +2,8 @@
 
 A real-time computer vision application that allows you to control your system volume using hand gestures.
 
-https://drive.google.com/file/d/1wgoZ3YghRwfZPgYzKI-PqDOGqrdM-fm3/view?usp=sharing
+[Click here to watch the video(1)](media/VolHand_Control_Final_HD.mp4)
+[Click here to watch the video(2)](https://drive.google.com/file/d/1wgoZ3YghRwfZPgYzKI-PqDOGqrdM-fm3/view?usp=sharing)
 
 ---
 
